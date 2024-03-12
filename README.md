@@ -27,7 +27,6 @@ const siteProps = {
   instagram: "microsoft",
   linkedIn: "satyanadella",
   medium: "",
-  twitter: "microsoft",
   youTube: "Code",
 };
 ```
