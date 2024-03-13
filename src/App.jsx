@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Pertti Palokangas",
   title: "Web Designer & Content Creator",
-  email: "pertinator@outlook.com",
+  email: "PerttiP@users.noreply.github.com",
   gitHub: "microsoft",
   instagram: "microsoft",
   linkedIn: "perttipalokangas/",
